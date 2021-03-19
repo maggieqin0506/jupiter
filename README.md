@@ -25,7 +25,7 @@ Content-based Recommendation Algorithm: Given users' favorited item, recommend i
 Advantage: since we don't have a lot of data, we could use this algorithm.
 
 ## Storage
-MySQL
+Use MySQL database to store the user account information.
 
 ## Registration
 Session-based authentication
